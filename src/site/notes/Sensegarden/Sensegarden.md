@@ -21,3 +21,4 @@ Unlike a blog, a digital garden is a living collection of ideas notes that grow 
 - [[Sensegarden/Sensegarden Seed/Sensegarden Seed\|Sensegarden Seed]] 
 - [[Sensegarden/Sensegarden Sprout/Sensegarden Sprout\|Sensegarden Sprout]] 
 - [[Sensegarden/Sensegarden Big Tree/Sensegarden Big Tree\|Sensegarden Big Tree]] 
+
