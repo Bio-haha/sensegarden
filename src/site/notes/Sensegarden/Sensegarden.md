@@ -132,3 +132,6 @@ Unlike a blog, a digital garden is a living collection of ideas notes that grow 
 
 - [[Sensegarden/Initial Setup\|Initial Setup]]  ---> 
 	- [[Sensegarden/10 Minutes to Set Up\|10 Minutes to Set Up]] 
+
+- [[2026-06-28-06-56-38-bot-biologi\|2026-06-28-06-56-38-bot-biologi]] 
+- [[2026-06-28-07-11-29-bot-biologi\|2026-06-28-07-11-29-bot-biologi]] 
